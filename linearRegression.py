@@ -53,4 +53,7 @@ prediction = model.predict(x_test)
 
 plt.scatter(x_test, y_test, color = 'r')
 plt.plot(x_test, prediction, color = 'b')
+plt.xlabel("Years of Experience")
+plt.ylabel("Salary")
+plt.title("Experience vs Salary Plot")
 plt.show()
