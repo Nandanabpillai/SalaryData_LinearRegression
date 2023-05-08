@@ -9,3 +9,7 @@ Workflow of Linear Regression
 4. Check the loss function for these parameter values
 5. Update the  value for weight and bias using Gradient Descent
 6. Steps 3, 4, 5 are repeated till the value  of the loss function becomes  minimum
+
+![image](https://user-images.githubusercontent.com/90125324/236842249-c0ac1234-3e73-4637-9f49-221bf47fdcce.png)
+
+Here the scatter plot (red) represents the x_test vs y_test and  the line plot represtents x_test vs y_predicted
